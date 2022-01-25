@@ -32,3 +32,4 @@ b]Draw a robust control law with the error slip method with Λ = 10Ι2x2 so that
 
 where ε=0.00001.
 
+WARNING! I didn't have enough time to translate everything in English, so some words are in Greek. If you have any question send me an email (vasiliskyrge98@gmail.com)
