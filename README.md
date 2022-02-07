@@ -1,5 +1,5 @@
 # Adaptive Control in Robotic Arm
-A simulation of a robotic arm which i did during my studies in subject "Adaptive Control Systems III"
+A simulation of a robotic arm which i did during my studies in subject "Automatic Control Systems III"
 
 Given the system: ![image](https://user-images.githubusercontent.com/95449708/150957131-92eabb44-c01f-497a-8f7b-0bae26614060.png)
 
